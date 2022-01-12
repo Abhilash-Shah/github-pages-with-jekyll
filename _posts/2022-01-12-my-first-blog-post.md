@@ -1,4 +1,8 @@
-Important Note about cheating:
+---
+title: "Important Note about cheating:"
+date: 2022-01-12
+---
+
 If someone cheats, or a virus, bug, bot, catastrophic event, natural disaster, or any other unforeseen or
 unexpected event that cannot be reasonably anticipated or controlled (also referred to as force majeure)
 affects the fairness and/or integrity of this Competition, we reserve the right to cancel, change, or suspend
